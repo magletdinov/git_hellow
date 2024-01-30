@@ -1,1 +1,1 @@
-print("Hellow World!")
+[print("Hellow World!") for i in range(3)]
